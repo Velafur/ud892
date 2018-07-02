@@ -1,0 +1,22 @@
+{
+  "name": "webtoolingandautomation",
+  "version": "1.0.0",
+  "description": "Course for learning how to use tools to automate the development process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Velafur/ud892.git"
+  },
+  "author": "Kimathi Muriithi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Velafur/ud892/issues"
+  },
+  "homepage": "https://github.com/Velafur/ud892#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
